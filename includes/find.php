@@ -4,7 +4,7 @@
     	    
         		<div class="third">
 
-			  		<h1 class="center">Fun Finder</h1>
+			  		<img class="center logo" src="img/logo.png" />
 			  		<h2 class="center">Vær aktiv og mød nye mennesker hvorend du er.</h2>
 
 				</div>

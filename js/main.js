@@ -101,6 +101,20 @@ $(document).ready(function(){
 		});
 
 
+	//DRAGGABLE 
+
+		$('.ikon').draggable({
+			containment: 'document',
+			cursor: 'move',
+			cursorAt: { bottom: -45, left: 45}, //Virker ikke optimalt, skal måske placeres til sidst? 
+			helper: "clone",
+			iframeFix: true
+			
+		});
+
+
+
+
 
 
 });

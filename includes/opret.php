@@ -1,6 +1,6 @@
 <section id="opret" > <!-- opret side START -->
 
-	<div class="third darkGreen">
+	<div class="third category">
 
 		
 		<h3 class="center" >Søg efter aktivitet</h3>
@@ -21,6 +21,40 @@
 	</div>
 
 	<div class="nine">
+	
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
+	<img src="ikoner/IconsBasketball.png" alt="Basketball ikon" class="ikon">
+	<img src="ikoner/IconsFootball.png" alt="Fodbold ikon" class="ikon">
+	<img src="ikoner/IconsVolley.png" alt="Volley ikon" class="ikon">
 	</div>
 
 </section> <!-- opret side SLUT -->
