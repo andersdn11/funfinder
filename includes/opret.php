@@ -1,6 +1,6 @@
 <section id="opret" > <!-- opret side START -->
 
-	<div class="third category">
+	<div class="third">
 
 		
 		<h3 class="center" >Søg efter aktivitet</h3>
@@ -8,15 +8,9 @@
 			<input type="text" id="inputCategory" name="inputCategory">
 			<input type="submit" value="Søg" id="searchBtn" name="searchBtn" >
 		</form>
-
-		<h3 class="center" >Kategori</h3>
-			<ul class="kategori">
-				<li>Alle</li>
-				<li>Udendørs</li>
-				<li>Indendørs</li>
-				<li>Vandsport</li>
-				<li>Boldsport</li>
-			</ul>
+		
+		<img  class="dragPic" src="img/dragPic.svg" alt="">
+		
 
 	</div>
 
